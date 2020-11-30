@@ -5,9 +5,12 @@ gmon.out
 *.stats
 Thumbs.db
 .DS_Store
+.github
 
 # VS Code
-.vscode/ipch
+.vscode
 
 # Project specific
-#
+.clang-format
+build.sh
+Makefile
